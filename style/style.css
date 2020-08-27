@@ -228,7 +228,6 @@ body {
 }
 
 #replay {
-  z-index: 3;
   cursor: pointer;
 }
 
